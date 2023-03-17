@@ -1,6 +1,6 @@
 # Career Contour
 
-This two documents form part of my resume. Needless to attach large files, and to make it easier for Hiring Team to refer as required.
+Documents 1 & 2, form part of my resume. Needless to attach large files, and to make it easier for Hiring Team to refer as required.
 
 (1) Filename : Ganesh-Introduction.ppsm 
 Is an PPT Slide show, an introduction to my education, career and project highlights. I have chosen 4 sample projects of the many I have worked, are large, complex and technically challenging projects. I have shared my learnings, the challenges faced and achivements on the projects and Metrics.
