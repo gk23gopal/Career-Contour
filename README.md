@@ -10,4 +10,4 @@ Brief outlines of the Projects in Business Transformation, Banking and Insurance
 Consolidated work responsbilities under each of them.
 
 (3) Filename : Start-1.xlsx
-This file is a representation of Project Management activities undertaken and mapped with PMBOK guidelines
+This file is a representation of Project Management activities undertaken and mapped with PMP - PMBOK 5 guidelines
